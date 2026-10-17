@@ -34,8 +34,8 @@ Simulador em turnos de partidas de **Valorant** no terminal, feito em **Java** c
 | Integrante | Função | Responsável por |
 |---|---|---|
 | Isac | Desenvolvedor | Desenvolvimento, criação do github e maven |
-| Henrique Dutra | Desenvolvedor | Desenvolvimento dos métodos e algortimo do programa |
-| Manoel Folha | Desenvolvedor | Desenvolvimento dos métodos e github |
+| Henrique Dutra | Desenvolvedor | Desenvolvimento dos métodos e github |
+| Manoel Folha | Desenvolvedor | Desenvolvimento dos métodos e algoritmo do programa |
 | Natan Brasil | Desenvolvedor | Desenvolvimento dos métodos e classes |
 
 | Parte do sistema | Pacote / classes |
